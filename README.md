@@ -1,6 +1,6 @@
 # Tools Hub
 ## Description
-This repo holds a variety of tools that I have developed for our team Fossil Friends as we develop [Dino Delivery](https://www.youtube.com/watch?v=SRuKsnKRxXs) at DigiPen Institute of Technology.
+This repo holds a variety of tools that I developed for our team Fossil Friends as we developed  [Dino Delivery](https://www.youtube.com/watch?v=SRuKsnKRxXs) at DigiPen Institute of Technology.
 
 ## Fossilize Exporter Tool
 ### Description
